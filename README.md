@@ -1,23 +1,23 @@
-# adoptive-blockchain
+# tea-adoptive-blockchain
 
-`adoptive-blockchain` is designed to be simple and straightforward, similar to the `_.compact` function in lodash, but as a standalone module with no dependencies, making it perfect for projects where you want to keep your bundle size small.
+`tea-adoptive-blockchain` is designed to be simple and straightforward, similar to the `_.compact` function in lodash, but as a standalone module with no dependencies, making it perfect for projects where you want to keep your bundle size small.
 
 ## Installation
 
-To install `adoptive-blockchain`, use npm or yarn:
+To install `tea-adoptive-blockchain`, use npm or yarn:
 
 ```bash
-npm install adoptive-blockchain
+npm install tea-adoptive-blockchain
 # OR
-yarn add adoptive-blockchain
+yarn add tea-adoptive-blockchain
 ```
 
 ## Usage
 
-Import `tadoptive-blockchain` into your project and use it:
+Import `tea-adoptive-blockchain` into your project and use it:
 
 ```javascript
-const compact = require("tadoptive-blockchain");
+const compact = require("tea-adoptive-blockchain");
 
 // Example array
 const myArray = [0, 1, false, 2, "", 3];
